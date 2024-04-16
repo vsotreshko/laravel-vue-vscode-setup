@@ -1,0 +1,39 @@
+{
+  "name": "laravel-vue-brackets-vscode-setup",
+  "displayName": "[laravel+vue] Brackets vscode setup",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "bmewburn.vscode-intelephense-client",
+    "bradlc.vscode-tailwindcss",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "onecentlin.laravel5-snippets",
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "mikestead.dotenv",
+    "formulahendry.auto-complete-tag",
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "DEVSENSE.composer-php-vscode",
+    "dbaeumer.vscode-eslint",
+    "wix.vscode-import-cost",
+    "vincaslt.highlight-matching-tag",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "devsense.phptools-vscode",
+    "mehedidracula.php-namespace-resolver",
+    "vue.volar",
+    "naumovs.color-highlight",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "mhutchie.git-graph",
+    "oderwat.indent-rainbow",
+    "open-southeners.laravel-pint",
+    "tal7aouy.rainbow-bracket"
+  ]
+}
