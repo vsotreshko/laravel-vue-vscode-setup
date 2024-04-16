@@ -9,6 +9,9 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "url": "vsotreshko/laravel-vue-vscode-setup"
+  },
   "extensionPack": [
     "bmewburn.vscode-intelephense-client",
     "bradlc.vscode-tailwindcss",
