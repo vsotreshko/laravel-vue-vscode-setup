@@ -1,6 +1,6 @@
 {
-  "name": "laravel-vue-brackets-vscode-setup",
-  "displayName": "[laravel+vue] Brackets vscode setup",
+  "name": "laravel-vue-vscode-setup",
+  "displayName": "[laravel+vue] vscode setup",
   "description": "",
   "version": "0.0.1",
   "engines": {
