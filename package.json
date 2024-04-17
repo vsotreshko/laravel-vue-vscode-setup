@@ -43,6 +43,7 @@
     "EditorConfig.EditorConfig",
     "GitHub.copilot",
     "emeraldwalk.RunOnSave",
-    "vitaliymaz.vscode-svg-previewer"
+    "vitaliymaz.vscode-svg-previewer",
+    "PKief.material-icon-theme"
   ]
 }
