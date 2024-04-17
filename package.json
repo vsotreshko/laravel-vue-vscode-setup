@@ -39,6 +39,10 @@
     "oderwat.indent-rainbow",
     "open-southeners.laravel-pint",
     "zhuangtongfa.Material-theme",
-    "richie5um2.vscode-sort-json"
+    "richie5um2.vscode-sort-json",
+    "EditorConfig.EditorConfig",
+    "GitHub.copilot",
+    "emeraldwalk.RunOnSave",
+    "vitaliymaz.vscode-svg-previewer"
   ]
 }
