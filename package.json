@@ -3,6 +3,7 @@
   "displayName": "[laravel+vue] vscode setup",
   "description": "",
   "version": "0.0.1",
+  "publisher": "vsotreshko",
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -37,6 +38,6 @@
     "mhutchie.git-graph",
     "oderwat.indent-rainbow",
     "open-southeners.laravel-pint",
-    "tal7aouy.rainbow-bracket"
+    "zhuangtongfa.Material-theme"
   ]
 }
