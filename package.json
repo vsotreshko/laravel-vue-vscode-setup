@@ -2,7 +2,7 @@
   "name": "laravel-vue-vscode-setup",
   "displayName": "[laravel+vue] vscode setup",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "vsotreshko",
   "engines": {
     "vscode": "^1.88.0"
