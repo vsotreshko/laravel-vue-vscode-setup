@@ -2,7 +2,7 @@
   "name": "laravel-vue-vscode-setup",
   "displayName": "[laravel+vue] vscode setup",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "vsotreshko",
   "engines": {
     "vscode": "^1.88.0"
@@ -44,6 +44,11 @@
     "GitHub.copilot",
     "emeraldwalk.RunOnSave",
     "vitaliymaz.vscode-svg-previewer",
-    "PKief.material-icon-theme"
+    "PKief.material-icon-theme",
+    "johnpapa.vscode-peacock",
+    "wayou.vscode-todo-highlight",
+    "yoavbls.pretty-ts-errors",
+    "usernamehw.errorlens",
+    "kamikillerto.vscode-colorize"
   ]
 }
